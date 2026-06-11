@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的智能体助手</title>
+    <style>
+        body { margin: 0; padding: 0; }
+        iframe { display: block; border: none; }
+    </style>
+</head>
+<body>
+    <!-- 免令牌、永久有效嵌入代码 -->
+    <iframe
+        src="https://www.coze.cn/embed/7623242875668660265"
+        width="100%"
+        height="700"
+        allow="autoplay; fullscreen; microphone"
+    ></iframe>
+</body>
+</html>
